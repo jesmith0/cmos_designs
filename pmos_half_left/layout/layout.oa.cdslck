@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jesmith4
+HostName                       login9.rc.usf.edu
+ProcessIdentifier              32054
+ProcessCreationTime_UTC        1447887536
+ProcessCreationTime_Readable   Wed Nov 18 17:58:56 2015 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/j/jesmith4/cmos05/DesignLibC5/pmos_half_left/layout/layout.oa.cdslck
+TimeEditLocked                 Wed Nov 18 18:22:33 2015 EST
